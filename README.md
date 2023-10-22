@@ -1,7 +1,7 @@
 # google-app-script
 Google App Script to retrieve the contacts from Gmail
 
-The script performs the following tasks
+# The script performs the following tasks
 **1.	Contact Retrieval:**
 Extracts contacts' information, including their name, email, and company link, from both the inbox and the sent box in Gmail.
 
